@@ -1,8 +1,0 @@
-=> For Frontend 
--> $env:NODE_OPTIONS = '--openssl-legacy-provider'
--> ng serve examfront
-
-
-=> Kill process with specified port number
--> netstat -ano | findstr :8080
--> taskkill /PID 6436 /F
